@@ -5,5 +5,7 @@ while candies>0:
     if candies == 15:
         print("15 crossed")
         break
+    else:
+        print("nothing")
 
 
